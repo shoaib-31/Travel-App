@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806842180217",
+    "project_id": "chisquarex-cd4ec",
+    "storage_bucket": "chisquarex-cd4ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806842180217:android:d08d3ea89cc608073b6aa8",
+        "android_client_info": {
+          "package_name": "com.example.chisquarex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4HrvAZzgKdSTVdtPjS3pkAumvZKE7Z-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806842180217:android:fe88512340b553693b6aa8",
+        "android_client_info": {
+          "package_name": "travel.chisquarex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4HrvAZzgKdSTVdtPjS3pkAumvZKE7Z-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
